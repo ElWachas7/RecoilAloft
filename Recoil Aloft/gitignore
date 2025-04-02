@@ -1,0 +1,35 @@
+# Archivos y carpetas de Unity a ignorar
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Archivos del sistema
+.DS_Store
+*.swp
+*.tmp
+
+# Archivos de Visual Studio / Rider
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+.vscode/
+.idea/
+
+# Otros
+obj/
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+
+# Archivos de configuración local de Unity
+UserSettings/

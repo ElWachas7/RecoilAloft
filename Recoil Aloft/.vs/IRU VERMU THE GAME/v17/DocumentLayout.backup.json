@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity\\unity app\\PROYECTOS\\IRU VERMU THE GAME\\IRU VERMU THE GAME\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF64538-F1F6-DC37-2F6E-FB06AD5C5875}|Assembly-CSharp.csproj|e:\\unity\\unity app\\proyectos\\iru vermu the game\\iru vermu the game\\assets\\scripts\\trabucomovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF64538-F1F6-DC37-2F6E-FB06AD5C5875}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\trabucomovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF64538-F1F6-DC37-2F6E-FB06AD5C5875}|Assembly-CSharp.csproj|E:\\Unity\\unity app\\PROYECTOS\\IRU VERMU THE GAME\\IRU VERMU THE GAME\\assets\\scripts\\maincamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF64538-F1F6-DC37-2F6E-FB06AD5C5875}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\maincamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF64538-F1F6-DC37-2F6E-FB06AD5C5875}|Assembly-CSharp.csproj|E:\\Unity\\unity app\\PROYECTOS\\IRU VERMU THE GAME\\IRU VERMU THE GAME\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF64538-F1F6-DC37-2F6E-FB06AD5C5875}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 197,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrabucoMovement.cs",
+              "DocumentMoniker": "E:\\Unity\\unity app\\PROYECTOS\\IRU VERMU THE GAME\\IRU VERMU THE GAME\\Assets\\Scripts\\TrabucoMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TrabucoMovement.cs",
+              "ToolTip": "E:\\Unity\\unity app\\PROYECTOS\\IRU VERMU THE GAME\\IRU VERMU THE GAME\\Assets\\Scripts\\TrabucoMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TrabucoMovement.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T17:26:58.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "E:\\Unity\\unity app\\PROYECTOS\\IRU VERMU THE GAME\\IRU VERMU THE GAME\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "E:\\Unity\\unity app\\PROYECTOS\\IRU VERMU THE GAME\\IRU VERMU THE GAME\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:13:39.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Maincamera.cs",
+              "DocumentMoniker": "E:\\Unity\\unity app\\PROYECTOS\\IRU VERMU THE GAME\\IRU VERMU THE GAME\\Assets\\Scripts\\Maincamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Maincamera.cs",
+              "ToolTip": "E:\\Unity\\unity app\\PROYECTOS\\IRU VERMU THE GAME\\IRU VERMU THE GAME\\Assets\\Scripts\\Maincamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Maincamera.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T03:28:43.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
